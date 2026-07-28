@@ -1,0 +1,6 @@
+{
+  "name": "Tienda en Línea",
+  "description": "Página de presentación para una tienda en línea elegante y moderna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
